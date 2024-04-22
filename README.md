@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @luccanor
+- 👀 I’m interested in cibersecurity
+- 🌱 I’m currently learning python
